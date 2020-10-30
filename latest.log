@@ -1,0 +1,165 @@
+[16:35:15] [main/INFO]: Loading for game Minecraft 1.16.3
+[16:35:15] [ForkJoinPool-1-worker-3/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[16:35:15] [ForkJoinPool-1-worker-3/WARN]: "fabric.mod.json" from mod autoconfig1u did not have "schemaVersion" as first field.
+[16:35:15] [ForkJoinPool-1-worker-3/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[16:35:15] [ForkJoinPool-1-worker-3/WARN]: "fabric.mod.json" from mod autoconfig1u did not have "schemaVersion" as first field.
+[16:35:16] [ForkJoinPool-1-worker-2/WARN]: The mod "cardinal-components-base" contains invalid entries in its mod json:
+- Unsupported root entry "side" at line 8 column 11
+[16:35:16] [ForkJoinPool-1-worker-3/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[16:35:16] [ForkJoinPool-1-worker-3/WARN]: "fabric.mod.json" from mod autoconfig1u did not have "schemaVersion" as first field.
+[16:35:16] [ForkJoinPool-1-worker-2/WARN]: The mod "cardinal-components-block" contains invalid entries in its mod json:
+- Unsupported root entry "side" at line 8 column 11
+[16:35:16] [ForkJoinPool-1-worker-2/WARN]: The mod "cardinal-components-chunk" contains invalid entries in its mod json:
+- Unsupported root entry "side" at line 8 column 11
+[16:35:16] [ForkJoinPool-1-worker-3/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[16:35:16] [ForkJoinPool-1-worker-3/WARN]: "fabric.mod.json" from mod autoconfig1u did not have "schemaVersion" as first field.
+[16:35:16] [ForkJoinPool-1-worker-2/WARN]: The mod "cardinal-components-entity" contains invalid entries in its mod json:
+- Unsupported root entry "side" at line 8 column 11
+[16:35:16] [ForkJoinPool-1-worker-3/WARN]: The mod "cardinal-components-util" contains invalid entries in its mod json:
+- Unsupported root entry "side" at line 8 column 11
+[16:35:16] [ForkJoinPool-1-worker-1/WARN]: The mod "cardinal-components-world" contains invalid entries in its mod json:
+- Unsupported root entry "side" at line 8 column 11
+[16:35:16] [ForkJoinPool-1-worker-2/WARN]: The mod "cardinal-components-item" contains invalid entries in its mod json:
+- Unsupported root entry "side" at line 8 column 11
+[16:35:16] [ForkJoinPool-1-worker-3/WARN]: The mod "cardinal-components-level" contains invalid entries in its mod json:
+- Unsupported root entry "side" at line 8 column 11
+[16:35:16] [main/INFO]: [FabricLoader] Loading 88 mods: fabric-renderer-api-v1@0.3.2+2b46237995, fermion@2.1.191, fabric-keybindings-v0@0.2.0+3fa9f7c595, roughlyenoughitems-api@5.6.2, cardinal-components-block@2.6.0, fabricloader@0.10.5+build.213, fabric-structure-api-v1@1.1.0+f8ac1db295, blade@2.0.0, fabric-containers-v0@0.1.8+045df74f95, fabric-object-builder-api-v1@1.9.0+c270b09895, cloth-durability-bar-api-v1@1.4.8, fabric-game-rule-api-v1@1.0.2+f8ac1db295, fermion-modkeys@1.8.180-snapshot, fabric-api-base@0.2.0+9f0fb4b895, astromine-discoveries@1.11.4+fabric-1.16.3, fabric-rendering-data-attachment-v1@0.1.4+f8ac1db295, piglib@1.0.1, cloth-dynamic-registry-api-v1@1.4.8, fiber@0.23.0-1, org_joml_joml@1.9.25, fabric-textures-v0@1.0.4+eae12eb895, cardinal-components-item@2.6.0, fabric-rendering-fluids-v1@0.1.12+f8ac1db295, maybe-data@1.0.0-1.16.2, cardinal-components-level@2.6.0, astromine@1.11.4+fabric-1.16.3, org_jetbrains_kotlin_kotlin-stdlib@1.4.0, astromine-transportations@1.11.4+fabric-1.16.3, fabric-blockrenderlayer-v1@1.1.4+c6a8ea8995, astromine-foundations@1.11.4+fabric-1.16.3, fabric-lifecycle-events-v1@1.2.0+74cc3b2095, cardinal-components-chunk@2.6.0, fabric-renderer-registries-v1@2.2.0+f8ac1db295, cardinal-components-util@2.6.0, org_jetbrains_kotlin_kotlin-stdlib-jdk7@1.4.0, libblockattributes_items@0.8.2, fabric-loot-tables-v1@1.0.1+432ea18895, fabric@0.24.1+build.412-1.16, fabric-particles-v1@0.2.2+fb0d9b0e95, libblockattributes_core@0.8.2, fabric-networking-v0@0.1.10+e00ecb5f95, wrenchable@1.0.0+1.16.1, fabric-screen-handler-api-v1@1.1.0+8724984195, roughlyenoughitems-default-plugin@5.6.2, minecraft@1.16.3, fabric-networking-blockentity-v0@0.2.5+b50ffc7b95, fabric-command-api-v1@1.0.8+5ce5339895, cloth-basic-math@0.5.1, fabric-tool-attribute-api-v1@1.2.4+2b46237995, org_jetbrains_kotlin_kotlin-stdlib-jdk8@1.4.0, roughlyenoughitems-runtime@5.6.2, fabric-renderer-indigo@0.4.2+2b46237995, cloth-client-events-v0@1.4.5, fabric-events-interaction-v0@0.4.1+f8ac1db295, fabric-crash-report-info-v1@0.1.2+b7f9825d95, fabric-item-api-v1@1.2.0+f8ac1db295, roughlyenoughitems@5.6.2, shapes@2.0.0+build.10, patchouli@1.16.2-44-FABRIC, fabric-rendering-v0@1.1.1+f8ac1db295, fabric-key-binding-api-v1@1.0.1+730711c695, fabric-rendering-v1@1.3.1+f8ac1db295, cloth-config2@4.8.2, terraform-legacy-v0@0.1.0-SNAPSHOT, autoconfig1u@3.2.2, fabric-resource-loader-v0@0.3.1+facf3bbf95, fabric-content-registries-v0@0.1.9+059ea86695, fabric-tag-extensions-v0@1.0.3+ac8e8c5995, cardinal-components-world@2.6.0, fabric-biome-api-v1@2.0.0+c29459ab95, cardinal-components-entity@2.6.0, magna@1.4.3-1.16.2, libblockattributes_fluids@0.8.2, astromine-technologies@1.11.4+fabric-1.16.3, fabric-commands-v0@0.2.0+52d3083695, fabric-registry-sync-v0@0.6.0+9f0fb4b895, cardinal-components-base@2.6.0, fabric-mining-levels-v0@0.1.2+b764ce9995, cloth-datagen-api-v1@1.4.8, cinderscapes@1.2.2+build.35-1.16.3, fabric-events-lifecycle-v0@0.2.0+16acbe5b95, libstructure@1.5, astromine-core@1.11.4+fabric-1.16.3, fabric-item-groups-v0@0.2.0+438f963695, fabric-models-v0@0.1.1+f8ac1db295, fabric-object-builders-v0@0.7.0+432ea18895, team_reborn_energy@0.1.0, terraform-shapes-api-v1@0.1.0-SNAPSHOT
+[16:35:16] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/Majek/Documents/MultiMC/libraries/net/fabricmc/sponge-mixin/0.8.2+build.24/sponge-mixin-0.8.2+build.24.jar Service=Knot/Fabric Env=CLIENT
+[16:35:16] [main/WARN]: Reference map 'blade-2.0.0+fabric-1.16.3-refmap.json' for blade.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:35:16] [main/WARN]: Reference map 'wrenchable-refmap.json' for wrenchable.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:35:16] [main/WARN]: Reference map 'astromine-technologies-refmap.json' for astromine-technologies.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:35:16] [main/WARN]: Reference map 'astromine-transportations-refmap.json' for astromine-transportations.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:35:16] [main/WARN]: Reference map 'astromine-foundations-refmap.json' for astromine-foundations.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:35:21] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[16:35:21] [main/INFO]: Setting user: HappyFaceSpider
+[16:35:23] [main/INFO]: Silk not found, not loading compatibility for fluids.
+[16:35:23] [main/INFO]: RebornCore not found, not loading compatibility for fluids. (reborncore.common.blockentity.MachineBaseBlockEntity)
+[16:35:25] [main/INFO]: Config loaded.
+[16:35:25] [main/INFO]: [Indigo] Registering Indigo renderer!
+[16:35:25] [main/INFO]: Backend library: LWJGL version 3.2.2 build 10
+[16:35:27] [main/WARN]: Removed resource pack fabric/patchouli from options because it is no longer compatible
+[16:35:27] [main/WARN]: @ModifyVariable(@At("INVOKE")) Shift.BY=2 on magna.mixins.json:WorldRendererMixin::localvar$zbi000$appendBlockBreakingProgressions exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[16:35:27] [main/INFO]: Narrator library for x64 successfully loaded
+[16:35:28] [main/INFO]: Reloading ResourceManager: Default, Fabric Renderer API (v1), Fermion, Fabric Key Bindings (v0), Fabric Loader, Blade, Fabric Containers (v0), Fabric Object Builder API (v1), Fabric Game Rule API (v1), Fermion Modifier Keys, Fabric API Base, Astromine: Discoveries, Fabric Rendering Data Attachment (v1), Fabric Textures (v0), Fabric Rendering Fluids (v1), Astromine: Transportations, Fabric BlockRenderLayer Registration (v1), Astromine: Foundations, Fabric Lifecycle Events (v1), Fabric Renderer Registries (v1), LibBlockAttributes (Items), Fabric Loot Tables (v1), Fabric API, LibBlockAttributes (Core), Fabric Networking (v0), Wrenchable, Fabric Screen Handler API (v1), Fabric Networking Block Entity (v0), Fabric Tool Attribute API (v1), REI (Runtime), Fabric Renderer - Indigo, Fabric Events Interaction (v0), Fabric Crash Report Info (v1), Fabric Item API (v1), Roughly Enough Items, Shapes, Fabric Rendering (v0), Fabric Key Binding API (v1), Fabric Rendering (v1), Cloth Config v4, Terraform Legacy (v0), Auto Config v1 Updated, Fabric Resource Loader (v0), Fabric Content Registries (v0), Fabric Tag Extensions (v0), Fabric Biome API (v1), Magna, LibBlockAttributes (Fluids), Astromine: Technologies, Fabric Registry Sync (v0), Fabric Mining Levels (v0), Cinderscapes, Fabric Events Lifecycle (v0), Astromine: Core, Fabric Item Groups (v0), Fabric Models (v0), Fabric Object Builders (v0), Energy, Terraform Shapes API (v1), Patchouli
+[16:35:37] [Worker-Main-6/WARN]: Texture minecraft:particle/sga_d with size 8x8 limits mip level from 4 to 3
+[16:35:37] [Worker-Main-6/WARN]: minecraft:textures/atlas/blocks.png: dropping miplevel from 4 to 3, because of minimum power of two: 8
+[16:35:39] [main/INFO]: OpenAL initialized.
+[16:35:39] [main/INFO]: Sound engine started
+[16:35:40] [main/INFO]: Created: 1024x1024x3 minecraft:textures/atlas/blocks.png-atlas
+[16:35:40] [main/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[16:35:40] [main/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[16:35:40] [main/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[16:35:40] [main/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[16:35:40] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[16:35:40] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[16:35:41] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[16:35:41] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[16:35:41] [main/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[16:36:08] [main/WARN]: @ModifyVariable(@At("INVOKE")) Shift.BY=2 on astromine.mixins.json:BiomeLayerSamplerMixin::localvar$zem000$modifyBiome exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[16:36:12] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:36:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:36:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:36:12] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:36:12] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:36:12] [main/INFO]: Reloading ResourceManager: Default, Astromine: Discoveries, Piglib, Maybe data, Astromine: Transportations, Astromine: Foundations, Fabric Tool Attribute API (v1), Astromine: Technologies, Cinderscapes, Astromine: Core
+[16:36:14] [main/INFO]: Loaded 15 recipes
+[16:36:14] [main/WARN]: Datapack tried to redefine minecraft:empty loot table, ignoring
+[16:36:14] [main/INFO]: Loaded 1615 advancements
+[16:36:14] [main/INFO]: Loaded 1 conditional recipes
+[16:36:16] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:36:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:36:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:36:16] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:36:16] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:36:16] [main/INFO]: Reloading ResourceManager: Default, Astromine: Discoveries, Piglib, Maybe data, Astromine: Transportations, Astromine: Foundations, Fabric Tool Attribute API (v1), Astromine: Technologies, Cinderscapes, Astromine: Core
+[16:36:17] [main/INFO]: Loaded 15 recipes
+[16:36:17] [main/WARN]: Datapack tried to redefine minecraft:empty loot table, ignoring
+[16:36:17] [main/INFO]: Loaded 1615 advancements
+[16:36:17] [main/INFO]: Loaded 1 conditional recipes
+[16:36:20] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[16:36:20] [Server thread/INFO]: Starting integrated minecraft server version 1.16.3
+[16:36:20] [Server thread/INFO]: Generating keypair
+[16:36:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:36:24] [main/INFO]: Preparing spawn area: 0%
+[16:36:24] [main/INFO]: Preparing spawn area: 0%
+[16:36:25] [main/INFO]: Preparing spawn area: 0%
+[16:36:25] [main/INFO]: Preparing spawn area: 1%
+[16:36:26] [main/INFO]: Preparing spawn area: 4%
+[16:36:26] [main/INFO]: Preparing spawn area: 9%
+[16:36:27] [main/INFO]: Preparing spawn area: 15%
+[16:36:27] [main/INFO]: Preparing spawn area: 15%
+[16:36:28] [main/INFO]: Preparing spawn area: 23%
+[16:36:28] [main/INFO]: Preparing spawn area: 24%
+[16:36:29] [main/INFO]: Preparing spawn area: 34%
+[16:36:29] [main/INFO]: Preparing spawn area: 42%
+[16:36:30] [main/INFO]: Preparing spawn area: 42%
+[16:36:30] [main/INFO]: Preparing spawn area: 42%
+[16:36:31] [main/INFO]: Preparing spawn area: 54%
+[16:36:31] [main/INFO]: Preparing spawn area: 54%
+[16:36:33] [main/INFO]: Preparing spawn area: 68%
+[16:36:33] [main/INFO]: Preparing spawn area: 68%
+[16:36:33] [main/INFO]: Preparing spawn area: 80%
+[16:36:33] [main/INFO]: Preparing spawn area: 80%
+[16:36:34] [main/INFO]: Preparing spawn area: 92%
+[16:36:34] [main/INFO]: Time elapsed: 10088 ms
+[16:36:35] [Server thread/INFO]: Changing view distance to 11, from 10
+[16:36:37] [Server thread/INFO]: HappyFaceSpider[local:E:e552e192] logged in with entity id 63 at (-21.5, 72.0, 9.5)
+[16:36:37] [Server thread/INFO]: HappyFaceSpider joined the game
+[16:36:39] [Server thread/INFO]: Saving and pausing game...
+[16:36:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[16:36:39] [REI-SyncRecipes/INFO]: Reloading REI, registered 5 plugins: blade:roughly_enough_items_plugin, roughlyenoughitems:default_runtime_plugin, astromine:discoveries_rei_plugin, astromine:technologies_rei_plugin, roughlyenoughitems:default_plugin
+[16:36:39] [main/INFO]: Loaded 0 advancements
+[16:36:40] [REI-SyncRecipes/INFO]: Applied Check Tags for potion in 6ms.
+[16:36:40] [main/INFO]: Fixed identifier path from iron_plates to iron_plate
+[16:36:40] [REI-SyncRecipes/INFO]: Reloaded 1784 stack entries, 2682 recipes displays, 3 exclusion zones suppliers, 6 overlay deciders, 1 visibility handlers and 26 categories (Crafting, Smelting, Smoking, Blasting, Campfire, Stone Cutting, Fuel, Brewing, Composting, Stripping, Smithing, Beacon Base, Beacon Payment, Tilling, Pathing, Information, Triturating, Electric Smelting, Liquid Generating, Solid Generating, Pressing, Alloy Smelting, Fluid Mixing, Electrolyzing, Refining, Infusing) in 330ms.
+[16:36:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[16:36:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[16:36:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/astromine:earth_space
+[16:36:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/astromine:glacios
+[16:36:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/astromine:mars
+[16:36:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/astromine:moon
+[16:36:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/astromine:vulcan
+[16:36:54] [Server thread/INFO]: Saving and pausing game...
+[16:36:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[16:36:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[16:36:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[16:36:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/astromine:earth_space
+[16:36:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/astromine:glacios
+[16:36:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/astromine:mars
+[16:36:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/astromine:moon
+[16:36:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/astromine:vulcan
+[16:36:57] [Server thread/INFO]: HappyFaceSpider lost connection: Disconnected
+[16:36:57] [Server thread/INFO]: HappyFaceSpider left the game
+[16:36:57] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[16:36:57] [Server thread/INFO]: Stopping server
+[16:36:57] [Server thread/INFO]: Saving players
+[16:36:57] [Server thread/INFO]: Saving worlds
+[16:36:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[16:36:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[16:36:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[16:36:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:36:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[16:36:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:36:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/astromine:earth_space
+[16:36:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (earth_space): All chunks are saved
+[16:36:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/astromine:glacios
+[16:36:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (glacios): All chunks are saved
+[16:36:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/astromine:mars
+[16:36:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[16:36:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/astromine:moon
+[16:36:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[16:36:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/astromine:vulcan
+[16:36:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (vulcan): All chunks are saved
+[16:36:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[16:36:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:36:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:36:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (earth_space): All chunks are saved
+[16:36:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (glacios): All chunks are saved
+[16:36:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[16:36:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[16:36:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (vulcan): All chunks are saved
+[16:37:10] [main/INFO]: Stopping!
